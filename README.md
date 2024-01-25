@@ -1,7 +1,7 @@
 # Weather API Webpage 
-This application is a webpage, created with the JavaScript framework Vue JS, for the purpose of consuming the openweathermap.org API. For the sake of simplicity, all zipcodes are assumed to be within the United States. By using the search bar, 
+This application creates a webpage, using the JavaScript framework Vue JS, for the purpose of consuming the openweathermap.org API. For the sake of simplicity, all zipcodes are assumed to be within the United States.
 ## NOTE
-The application uses a constant called **API_KEY** inside the WeatherServices class within the services package. Currently it is set to *"Your API Key here!"*. To have the application launch successfully, you must visit https://home.openweathermap.org/users/sign_up to get a free api key and replace the constant with your own.
+The application uses a constant called **API_KEY** inside WeatherService.js within the services package. Currently it is set to *"Your API Key here!"*. To have the application execute successfully, you must visit https://home.openweathermap.org/users/sign_up to get a free api key and replace the constant with your own.
 ## Instructions
 * Navigate to the Weather tab
 * Enter user's zipcode into the search bar and click "Get Weather"
