@@ -1,5 +1,5 @@
 # Weather API Webpage 
-This application creates a webpage, using the JavaScript framework Vue JS, for the purpose of consuming the openweathermap.org API. For the sake of simplicity, all zipcodes are assumed to be within the United States.
+This application creates a webpage, using the JavaScript framework Vue JS, for the purpose of consuming the openweathermap.org API. For the sake of simplicity, all zipcodes are assumed to be within the United States. Starter code is from the Tech Elevator Capstone project.
 ## NOTE
 The application uses a constant called **API_KEY** inside WeatherService.js within the services package. Currently it is set to *"Your API Key here!"*. To have the application execute successfully, you must visit https://home.openweathermap.org/users/sign_up to get a free api key and replace the constant with your own.
 ## Instructions

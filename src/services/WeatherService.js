@@ -4,7 +4,7 @@ const http = axios.create({
     baseURL : "http://api.openweathermap.org/"
 });
 
-const key = "Your API Key here!";
+const key = "3f6d3f661d95948fa6e3fdeccfa620a7";
 
 export default {
     getLatLon(zipcode){
